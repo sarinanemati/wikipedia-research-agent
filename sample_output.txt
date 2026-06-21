@@ -1,0 +1,31 @@
+Wikipedia Research Agent
+==============================
+
+Enter research topic: Artificial Intelligence
+Enter search depth, for example 1 or 2: 2
+Enter max number of pages: 5
+
+Researching... please wait.
+
+--- Research Results ---
+
+1. Title: Artificial intelligence
+
+Summary:
+Artificial intelligence is the intelligence of machines or software, as opposed to the intelligence of humans or animals.
+
+------------------------------------------------------------
+
+2. Title: Machine learning
+
+Summary:
+Machine learning is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data.
+
+------------------------------------------------------------
+
+3. Title: Deep learning
+
+Summary:
+Deep learning is part of a broader family of machine learning methods, which is based on artificial neural networks with representation learning.
+
+------------------------------------------------------------
