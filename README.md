@@ -1,7 +1,6 @@
 # Wikipedia Research Agent
 
 A simple autonomous research agent built with Python and Wikipedia APIs.
-
 This project demonstrates how to build a beginner-friendly research agent that can search Wikipedia, fetch article summaries, follow internal links, and generate structured research results.
 
 ---
